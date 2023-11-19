@@ -1,0 +1,2 @@
+# codsoft
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. The goal of AI is to develop systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI is a broad field that encompasses various subfields and approaches
